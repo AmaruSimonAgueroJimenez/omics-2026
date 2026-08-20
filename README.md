@@ -12,7 +12,7 @@ Curso de 14 semanas orientado a comprender los fundamentos de las técnicas expe
 |---------|-----|----------|
 | Juan Francisco Calderón | Coordinador | juancalderon@udd.cl |
 | Juan Hormazábal | Co-docente | jhormazabal@udd.cl |
-| Juan Ugalde | Invitado | Co-docente | jugalde@udd.cl |
+| Juan Ugalde | Co-docente | jugalde@udd.cl |
 
 
 ## Estructura del repositorio
